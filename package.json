@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@next/third-parties": "^14.2.5",
     "@plasmicapp/cli": "^0.1.331",
     "@plasmicapp/react-web": "^0.2.346",
     "@testing-library/jest-dom": "^5.17.0",
